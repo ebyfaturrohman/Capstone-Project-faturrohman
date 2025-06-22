@@ -50,9 +50,9 @@ Proyek ini bertujuan untuk mengklasifikasikan dan meringkas komentar pelanggan e
 - Insight mendalam dari ribuan komentar
 
 ## 📁 Struktur File
-├── Capstone_Presentasi_Faturrohman.pptx
+├── Capstone_Project_Faturrohman.ipynb
 ├── Shopee_Sampled_Reviews.csv
-├── Capstone_Faturrohman.ipynb
+├── Cerdas Menyaring Suara Pelanggan.pdf
 └── README.md
 
 ## 🙏 Terima Kasih
